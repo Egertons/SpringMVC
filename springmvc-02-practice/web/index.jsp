@@ -4,6 +4,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  <p>该页面为index.jsp</p>
+  $END$
   </body>
 </html>

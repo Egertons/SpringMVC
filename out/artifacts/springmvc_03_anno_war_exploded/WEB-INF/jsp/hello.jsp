@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>HelloSpringMVC</title>
+    <title>Title</title>
 </head>
 <body>
     ${msg}
