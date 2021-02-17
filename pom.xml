@@ -13,6 +13,9 @@
         <module>springmvc-02-hellomvc</module>
         <module>springmvc-02-practice</module>
         <module>springmvc-03-anno</module>
+        <module>springmvc-04-controller</module>
+        <module>spring-05-json</module>
+        <module>springmvc-05-json</module>
     </modules>
 
     <properties>
