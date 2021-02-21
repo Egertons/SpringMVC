@@ -16,6 +16,7 @@
         <module>springmvc-04-controller</module>
         <module>spring-05-json</module>
         <module>springmvc-05-json</module>
+        <module>springmvc-06-ajax</module>
     </modules>
 
     <properties>
